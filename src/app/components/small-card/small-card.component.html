@@ -1,7 +1,7 @@
 <div class="container__small-card">
     <div class="container__small-card-content">
         <div class="small-card__photo">
-            <img src="https://i.ibb.co/gDXSL55/Martin-garrix-fotos-2.jpg" 
+            <img src="{{ photoCover }}" 
                 alt="" 
                 height="200px"
                 width="300px"
@@ -10,7 +10,7 @@
         </div>
         <div class="small-card__title">
             <h1>
-                <a href="#" >O título de melhor DJ do mundo em 2024, segundo o ranking da DJ Mag, foi conquistado por Martin Garrix.</a>
+                <a [routerLink]="['content', contentId]">{{ cardTitle }}</a>
             </h1>
         </div>
     </div>
