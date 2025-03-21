@@ -9,5 +9,5 @@ O blog que desenvolvi possui temática de musica eletronica. Adicionei uma pagin
 
 ## Imagens do Projeto
 <img src="https://github.com/pibraz/angular-projeto-blog/blob/main/Captura de Tela (31).png">
-<img src="https://github.com/pibraz/angular-projeto-blogblob/main/Captura de Tela (32).png">
+<img src="https://github.com/pibraz/angular-projeto-blog/blob/main/Captura de Tela (32).png">
 <img src="https://github.com/pibraz/angular-projeto-blog/blob/main/Captura de Tela (33).png">
